@@ -110,6 +110,7 @@
 		B366F1B116F5DE9800C0BA49 /* DDHidAppleMikey.m in Sources */ = {isa = PBXBuildFile; fileRef = B366F1AF16F5DE9800C0BA49 /* DDHidAppleMikey.m */; };
 		B366F1B316F5E20800C0BA49 /* DDHidAppleMikey.m in Sources */ = {isa = PBXBuildFile; fileRef = B366F1AF16F5DE9800C0BA49 /* DDHidAppleMikey.m */; };
 		B366F1B616F5E64B00C0BA49 /* AppleMikeyPaneController.m in Sources */ = {isa = PBXBuildFile; fileRef = B366F1B516F5E64B00C0BA49 /* AppleMikeyPaneController.m */; };
+		D4AD699D174CFB4E00FA59C6 /* DDHidAppleMikey.h in Headers */ = {isa = PBXBuildFile; fileRef = B366F1AE16F5DE9800C0BA49 /* DDHidAppleMikey.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -506,6 +507,7 @@
 				55193E680B93F31D004C0C98 /* DDHidJoystick.h in Headers */,
 				55193E6A0B93F31D004C0C98 /* DDHidAppleRemote.h in Headers */,
 				55193E6C0B93F31D004C0C98 /* DDHidLib.h in Headers */,
+				D4AD699D174CFB4E00FA59C6 /* DDHidAppleMikey.h in Headers */,
 				55193F110B93F36F004C0C98 /* NSXReturnThrowError.h in Headers */,
 				55D5937B0BAE3B8800364849 /* DDHidKeyboard.h in Headers */,
 				55FC9FDD0BB76D8D0095FC7B /* DDHidKeyboardBarcodeScanner.h in Headers */,
