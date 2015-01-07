@@ -102,6 +102,8 @@
                                   forKey: @"33_23_21_20_2_33_23_21_20_2_"];
     [mCookieToButtonMapping ddhid_setInt: kDDHidRemoteButtonPlay
                                   forKey: @"33_21_20_3_2_33_21_20_3_2_"];
+    [mCookieToButtonMapping ddhid_setInt: kDDHidRemoteButtonPlay
+                                  forKey: @"33_21_20_8_2_33_21_20_8_2_"];
     
     [mCookieToButtonMapping ddhid_setInt: kDDHidRemoteButtonRight
                                   forKey: @"14_9_6_5_14_9_6_5_"];
