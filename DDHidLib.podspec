@@ -2,7 +2,7 @@ Pod::Spec.new do |spec|
   
   spec.name         = 'DDHidLib'
   spec.platform     = :osx, '10.6'
-  spec.version      = '1.1.1'
+  spec.version      = '1.1.3'
   spec.license      = 'MIT'
   spec.summary      = 'An Objective-C wrapper around IOHIDLib by Dave Dribin'
   
